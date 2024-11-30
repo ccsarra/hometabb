@@ -1,1 +1,17 @@
-# hometabb
+<html>
+<head> <title> HOME </title> 
+<link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+<body bgcolor="#a3b18a">
+<a href="https://ccsarra.github.io/ccgsarra.github.io/">
+<h3><u><i>my 1st qtr portfolio!</u> </i></h3> </a>
+<h1> welcome (˶˃ ᵕ ˂˶) .ᐟ.ᐟ</h1>
+<h2> second quarter portfolio! </h2> <br>
+<a href="https://ccsarra.github.io/introe/">
+<p><u> my introduction!</p></a>
+<a href="https://ccsarra.github.io/activities/">
+<p><u> 2nd qtr activities! </p></a>
+<a href="https://ccsarra.github.io/reflect/">
+<p><u> reflection! </p></a>
+</body>
+</html>
